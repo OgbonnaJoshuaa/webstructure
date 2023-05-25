@@ -1,0 +1,222 @@
+* {
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   list-style: none;
+   text-decoration: none;
+}
+/* constant tags !! */
+body{
+    background: #0C134F;
+}
+
+
+/* footer  */
+footer{
+    background-color: aqua;
+    height: 20vh;
+    width: 100%;
+    bottom: 0;
+    padding: 80px;
+    margin: 10px;
+    text-align: center;
+}
+/* footer end */
+
+
+/* constant tags end */
+
+
+/* heme page home page home page */
+a{
+    color: white;
+    text-decoration: none;
+}
+/* li section */
+li{
+    color: white;
+    margin: 20px;
+    list-style: none;
+    height: 80px;
+}
+/* li section end */
+
+/* navbar section */
+nav{
+    background: blue;
+    height: 80px;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    border-radius: 5px;
+    z-index: 999;
+}
+/* navbar end */
+
+/* image img */
+img{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    transform: rotate(5deg);
+}
+/* image img end */
+
+/* image img hover */
+img:hover{
+    background: white;
+    padding: 4px;
+    color: black;
+    border-radius: 7px;
+    display: flex;
+    transition: 0.5s;
+    transform: rotate(0deg);
+}
+/* image img hover end */
+
+/* jay jay */
+.jay{
+    color: white;
+    margin: 20px;
+    list-style: none;
+    height: 80px;
+    text-align: center;
+}
+/* jay end jay end */
+
+/* p start */
+.about{
+    color: white;
+    margin: 20px;
+    list-style: none;
+    height: 80px;
+    text-align: center;
+}
+/* p end */
+
+/* div start */
+div{
+    color: white;
+}
+/* div end */
+
+/* a:hover  */
+a:hover{
+    background: black;
+    color: white;
+    padding: 5px;
+    border-radius: 9px;
+    transition: 0.5s;
+}
+/* a:hover end */
+
+
+/* hobbies */
+.hobbies{
+    color: white;    
+    text-align: center;
+}
+/* hobbies end */
+
+/* skills */
+.skills{
+    color: aqua;
+    text-align: center;
+}
+
+
+
+.skillss{
+    color: aqua;
+text-align: center;
+font-size: 20px;
+width: 300px;
+height: 400px;
+border: 0.5px solid blue;
+border-radius: 10px;
+margin-right:1px0;
+background-color: #040c53;
+}
+
+
+.column-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    display: flex;
+    text-align: center;
+}
+
+.column-1{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/* jay2  */
+.jay2{
+    color: white;
+    margin: 20px;
+    list-style: none;
+    height: 80px;
+    text-align: center;
+}
+/* jay2 end */
+
+/* jay3 */
+.jay3{
+    color: white;
+    margin: 20px;
+    text-decoration: dotted;
+    height: 80px;
+    text-align: center;
+}
+/* jay3 end */
+
+
+
+/* >>>.............................. home page end >>>>................. */
+
+
+/* >>>.............................. ContACT PAGE end >>>>................. */
+
+p{
+    color: white;
+    border-radius: 7px;  
+   }
+
+
+
+
+/*  */
+
+
+/*  registration page  */
+form{
+   padding-top: 60px;
+    color: white;
+    border-radius: 7px;  
+    margin: auto;
+    width: 50%;
+   }
+
+   span{
+    color: red;
+   }
+   input{
+    border-radius: 10px;
+    color: white;
+    border: 1px solid blue;
+    background-color: #0C134F;
+    width: 80%;
+    padding: 12px 20px;
+    height: 50px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   }
+   /* end */
+
+
